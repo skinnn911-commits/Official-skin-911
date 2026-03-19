@@ -90,12 +90,6 @@ h1 {
     text-shadow: 2px 2px 4px rgba(253, 253, 253, 0.5);
 }
 
-p {
-    font-size: 5px;
-    margin-bottom: 0;
-    text-shadow: 2px 2px 4px rgba(253, 253, 253, 0.5);
-}
-
 h4 {
     letter-spacing: 3px;
     margin-top: 10px;
@@ -128,6 +122,13 @@ h2 {
     font-size: 3rem;
     margin-bottom: 20px;
     text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.about-hero p {
+    color: var(--white);
+    font-size: 8px;
+    margin-bottom: 20px;
     letter-spacing: 2px;
 }
 
