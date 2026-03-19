@@ -165,6 +165,7 @@ h2 {
 .info-card p {
     max-width: 500px;
     margin: 0 auto 20px auto;
+    color: white;
 }
 
 .mission-vision-container {
